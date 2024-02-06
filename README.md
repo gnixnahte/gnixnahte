@@ -2,7 +2,7 @@ Hi! My name is Ethan Xing. <br>
 🌍  I'm based in Waterloo, ON, Canada <br>  
 ✉️  You can contact me at [ethanxing2007@gmail.com](mailto:ethanxing2007@gmail.com) <br>  
 🧠  I'm learning react.js <br>  
-⚡  WIP <br/ >  
+⚡  WIP <br>  
 
 <a href="https://www.github.com/gnixnahte" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/gnixnahte?logo=github&style=for-the-badge&color=ffffff&labelColor=181824" /></a>
 Skills  
