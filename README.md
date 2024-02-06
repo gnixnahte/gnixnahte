@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br>
-My name is Ethan Xing. <br>   
+Hi! My name is Ethan Xing. <br>   
 🌍  I'm based in Waterloo, ON, Canada <br>  
 ✉️  You can contact me at [ethanxing2007@gmail.com](mailto:ethanxing2007@gmail.com) <br>  
 🧠  I'm learning react.js <br>  
