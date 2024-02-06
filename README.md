@@ -1,4 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ethan Xing   * 🌍  I'm based in Waterloo, ON, Canada * ✉️  You can contact me at [ethanxing2007@gmail.com](mailto:ethanxing2007@gmail.com) * 🧠  I'm learning react.js * ⚡  WIP
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Ethan Xing   
+🌍  I'm based in Waterloo, ON, Canada 
+✉️  You can contact me at [ethanxing2007@gmail.com](mailto:ethanxing2007@gmail.com)
+🧠  I'm learning react.js
+⚡  WIP
 
 <a href="https://www.github.com/gnixnahte" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/gnixnahte?logo=github&style=for-the-badge&color=ffffff&labelColor=181824" /></a>
 ### Skills  
