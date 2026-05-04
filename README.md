@@ -4,5 +4,5 @@
 
 Mechatronics Engineering @ UWaterloo 
 
-</div>
 ![Profile views](https://komarev.com/ghpvc/?username=gnixnahte)
+</div>
