@@ -2,6 +2,6 @@
 
 # 👋 hello, i'm ethan! 
 
-Mechatronics Engineering @ UWaterloo 
+mechatronics engineering @ uwaterloo 
 
 </div>
